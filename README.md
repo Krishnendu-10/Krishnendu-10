@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Krishnendu Pan
 
-<!--
-**Krishnendu-10/Krishnendu-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student | 💻 C++ Enthusiast | 🤖 Learning Machine Learning  
+🔭 Currently building DSA skills and real-world projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- 💻 C++, Python
+- 🌐 HTML, CSS, JavaScript (basic)
+- 🧠 Data Structures & Algorithms
+- 📊 Learning: Machine Learning, Git & GitHub
+
+---
+
+## 📈 GitHub Stats
+
+![Krishnendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnendupan&show_icons=true&theme=radical)
+
+---
+
+## 📌 Pinned Projects
+- [DSA Solutions in C++](https://github.com/krishnendupan/dsa-practice)
+- [ML Spam Classifier (Coming soon)]()
+
+---
+
+> “Stay hungry. Stay foolish.” — Steve Jobs
